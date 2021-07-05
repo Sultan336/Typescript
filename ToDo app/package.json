@@ -1,5 +1,5 @@
 {
-  "name": "ToDo_1",
+  "name": "ToDo app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "lowdb": "^1.0.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^7.3.2"
+    "@types/inquirer": "^7.3.2",
+    "@types/lowdb": "^1.0.10"
   }
 }
